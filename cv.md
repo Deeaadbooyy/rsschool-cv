@@ -12,3 +12,25 @@ No information
 + HTML
 + CSS
 + Git
+
+## Code Example
+```
+function truncate(str, maxlength) {
+let newStr;
+if (str.length > maxlength) {
+ newStr = str.slice(0, maxlength - 3) + "...";
+ return newStr;
+}
+return str;
+}
+```
+
+## Experience
+No
+
+## Education
++ University: EGI
+
+## Languages
++ Russian - Native
++ English - A2
